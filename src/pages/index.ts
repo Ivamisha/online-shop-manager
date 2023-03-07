@@ -1,0 +1,5 @@
+export { default as AuthorizationPage } from './AuthorizationPage/AuthorizationPage'
+export { default as CategoryPage } from './CategoryPage/CategoryPage'
+export { default as ProductsPage } from './ProductsPage/ProductsPage'
+export { default as PickUpPointsPage } from './PickUpPointsPage/PickUpPointsPage'
+export type { ILoginFormInputs } from './AuthorizationPage/interface'
